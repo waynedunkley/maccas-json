@@ -1,0 +1,14 @@
+{
+  "module_1": {
+    "title": {
+      "chicken": "Fancy a side of Cheesy Chicken Sticks??",
+      "beef": "Beef it up, add a Cheesy Beef Steak!!",
+      "vege": "Fancy a side of Cheesy Jalapeño Pops??"
+    },
+    "description": {
+      "chicken": "Test your tastebuds and level up your spice game with our Cheesy Chicken Sticks served with El Chicko® gravy — they're the gooood kind of cheesy!",
+      "beef": "Test your tastebuds and level up your spice game with our Cheesy Beef Steak served with Ranch Maco® sauce — they're the gooood kind of cheesy!",
+      "vege": "Test your tastebuds and level up your spice game with our Cheesy Jalapeño Pops served with El Maco® salsa — they're the gooood kind of cheesy!"
+    }
+  }
+}
