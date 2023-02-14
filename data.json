@@ -10,5 +10,17 @@
       "beef": "Test your tastebuds and level up your spice game with our Cheesy Beef Steak served with Ranch Maco® sauce — they're the gooood kind of cheesy!",
       "vege": "Test your tastebuds and level up your spice game with our Cheesy Jalapeño Pops served with El Maco® salsa — they're the gooood kind of cheesy!"
     }
+  },
+  "module_2": {
+    "title": {
+      "chicken": "Now *this* is what it's all about!",
+      "beef": "OMG *this* is what it's all about!",
+      "vege": "WOW *this* is what it's all about!"
+    },
+    "description": {
+      "chicken": "Dip into the Cadbury® Caramilk® Hokey Pokey McFlurry®, swirled with with Cadbury® Caramilk® flakes, hokey pokey pieces and golden creamy Caramilk® sauce!",
+      "beef": "Dip into the Cadbury® Caramilk® Hokey Pokey McFlurry®, swirled with with Cadbury® Caramilk® flakes, hokey pokey pieces and golden creamy Caramilk® sauce!",
+      "vege": "Dip into the Cadbury® Caramilk® Hokey Pokey McFlurry®, swirled with with Cadbury® Caramilk® flakes, hokey pokey pieces and golden creamy Caramilk® sauce!"
+    }
   }
 }
